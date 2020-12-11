@@ -1,0 +1,26 @@
+body{
+    background-color: #726a95
+
+}
+
+.Headings{
+    color: #270752;
+}
+
+img{
+    width: 100px;
+    
+}
+
+ul{
+    padding-inline-start: 50px;
+    font-size: large;
+}
+
+hr{
+    border-top: 2px solid #270752;
+}
+
+li{
+    padding: 10px;
+}
